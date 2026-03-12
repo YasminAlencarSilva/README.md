@@ -1,18 +1,18 @@
 <!-- BANNER -->
 <div align="center">
   <p align="center">
-  <img src="c5ee2be0-1cfd-11f1-b826-57be7c88f6db.png" alt="Banner de Mitologia" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGNFjIHQ9DioQ/profile-displaybackgroundimage-shrink_350_1400/B4DZxK.AEJHcAY-/0/1770784293925?e=1775088000&v=beta&t=WtjqSN8gKCft51lnifiP1LcrG2YwyL1HU_S1nJSZJnM" alt="Banner de Mitologia" width="100%">
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohane-massão)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/llohh_kkjs)
+[![LinkedIn](www.linkedin.com/in/yasmin-alencar-ab4a743aa)
+[![Gmail](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/llohh_kkjs)
 
 </div>
 
 ----
 
 <p align="left">
-  <img src="5905ba80-1cfc-11f1-b826-57be7c88f6db.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="https://s2.glbimg.com/5gMSYi-qGjherL6wZoySOsAotMs=/e.glbimg.com/og/ed/f/original/2014/03/20/dvdp1.gif" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <p>Full Stack Developer in Training</p>>
   Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, as well as <b>SQL databases</b>, 
