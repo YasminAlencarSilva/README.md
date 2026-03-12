@@ -4,8 +4,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQGNFjIHQ9DioQ/profile-displaybackgroundimage-shrink_350_1400/B4DZxK.AEJHcAY-/0/1770784293925?e=1775088000&v=beta&t=WtjqSN8gKCft51lnifiP1LcrG2YwyL1HU_S1nJSZJnM" alt="Banner de Mitologia" width="100%">
 </p>
 
-[![Linkedln](https://www.linkedin.com/in/yasmin-alencar-ab4a743aa/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/llohh_kkjs)
+
 
 </div>
 
