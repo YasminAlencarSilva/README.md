@@ -5,7 +5,7 @@
 </p>
 
 [![LinkedIn](www.linkedin.com/in/yasmin-alencar-ab4a743aa)
-[![Gmail](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/llohh_kkjs)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/llohh_kkjs)
 
 </div>
 
@@ -14,7 +14,7 @@
 <p align="left">
   <img src="https://s2.glbimg.com/5gMSYi-qGjherL6wZoySOsAotMs=/e.glbimg.com/og/ed/f/original/2014/03/20/dvdp1.gif" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <p>Full Stack Developer in Training</p>>
+  <h1>Full Stack Developer in Training</h1>>
   Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, as well as <b>SQL databases</b>, 
                   and I have been applying this knowledge to personal projects, 
            developing applications that involve back-end, databases, and API 
@@ -26,7 +26,7 @@
 <br clear="right">
 
 
-<div align="center">
+<div align="left">
 
 <h3>Technologies</h3>
 </div>
