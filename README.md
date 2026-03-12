@@ -4,6 +4,11 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQGNFjIHQ9DioQ/profile-displaybackgroundimage-shrink_350_1400/B4DZxK.AEJHcAY-/0/1770784293925?e=1775088000&v=beta&t=WtjqSN8gKCft51lnifiP1LcrG2YwyL1HU_S1nJSZJnM" alt="Banner de Mitologia" width="100%">
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
 
 
 </div>
@@ -57,7 +62,7 @@
 </br>
 </br>
 
-<div align="center">
+<div align="left">
 
 <h3>Statistics</h3>
 </div>
@@ -80,3 +85,16 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohjs-0&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 
 </p>
+
+
+<p align="left"></p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasminAlencarSilva/YasminAlencarSilva/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasminAlencarSilva/YasminAlencarSilva/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YasminAlencarSilva/YasminAlencarSilva/output/pacman-contribution-graph.svg">
+</picture>
+
+###
