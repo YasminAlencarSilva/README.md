@@ -13,22 +13,7 @@
 
 </div>
 
-----
 
-<p align="left">
-  <img src="https://s2.glbimg.com/5gMSYi-qGjherL6wZoySOsAotMs=/e.glbimg.com/og/ed/f/original/2014/03/20/dvdp1.gif" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
-  <div>
-  <h1>Full Stack Developer in Training</h1>
-    <p>
-  Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, as well as <b>SQL databases</b>, 
-                  and I have been applying this knowledge to personal projects, 
-           developing applications that involve back-end, databases, and API 
-                 consumption on the front-end.
-  <br><br>
-  I also have experience with <b>Node.js, JavaScript, HTML, CSS, PHP, React, MySQL, and PostgreSQL</b>.
-</p>
-  </div>
-<br clear="right">
 
 
 <div align="left">
@@ -87,14 +72,4 @@
 </p>
 
 
-<p align="left"></p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasminAlencarSilva/YasminAlencarSilva/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasminAlencarSilva/YasminAlencarSilva/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YasminAlencarSilva/YasminAlencarSilva/output/pacman-contribution-graph.svg">
-</picture>
-
-###
